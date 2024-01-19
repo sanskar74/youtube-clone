@@ -56,3 +56,13 @@ Contributions are welcome! If you have suggestions, find bugs, or want to add ne
 
  - Thank you for exploring and contributing to the YouTube Clone Project.
  - Special thanks to the GitHub community for support and collaboration.
+
+## Screenshot
+
+
+![Screenshot 2024-01-19 233308](https://github.com/sanskar74/youtube-clone/assets/117890001/4b2165c9-d755-463d-ac9f-0b5147a881ca)
+
+
+
+
+![image](https://github.com/sanskar74/youtube-clone/assets/117890001/86808c15-e952-4b74-940b-a072fc3a48c2)
